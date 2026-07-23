@@ -19,7 +19,7 @@ while(page<=npages)
 'clear'
 'set vpage off'
 
-panels('nrows ncols')
+panels(nrows' 'ncols)
 
 *------------------------------------------
 
